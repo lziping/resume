@@ -1,6 +1,6 @@
 # HOMEPAGE
 
-欢迎访问我的个人主页！下面向你介绍一下你的爸爸\~
+Welcome to my personal page, I'm ZiPing Lin\~
 
 <!-- .slide -->
 

@@ -51,7 +51,7 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 ## Skills
 
 <!-- .slide vertical=true -->
-## Programing language
+# Programing language
 - **Python,Java,C++,C**
 
 

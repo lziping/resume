@@ -23,6 +23,7 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 
 - Bachelor of Science in Accounting, *Minor in Business:Finance*, Sept. 2017 - Jun. 2020
 
+
 <!-- .slide -->
 
 ## Honors 

@@ -108,14 +108,14 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                     "content": {
                       "link": ["https://www.linkedin.com/in/ziping-lin-655945151"],
-                      "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
+                      "skin": ["Switch to my friend？", "让她放个假吧~"],
                       "hidden": true,
                       "custom": [{
                         "selector": "a",
                         "type": "link",
                       }, {
                         "selector": ".sidebar-toggle",
-                        "text": "打开侧边栏叭~"
+                        "text": "Open sidebar~"
                       }, {
                         "selector": ".effect-info",
                         "text": "哇，你发现了什么！"

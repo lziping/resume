@@ -129,7 +129,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                         "selector": "#toc",
                         "text": "This is Menu~"
                       }, {
-                        "selector": ".page-title",
+                        "selector": ".page-title-hehe",
                         "text": "This is title~"
                       }, {
                         "selector": ".v",

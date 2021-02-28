@@ -62,7 +62,7 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 ## Skills
 
 <!-- .slide vertical=true -->
-
+#Programing language
 - **Python**, Familiar
 - **连续看20小时看电视不睡觉**, 
 

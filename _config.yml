@@ -110,7 +110,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       "link": ["Want to know more about me?"],
                       "link": ["https://www.linkedin.com/in/ziping-lin-655945151"],
                       "skin": ["Switch to my friend？", "Let them take a break~"],
-                      "home": ["https://lziping.github.io/resume/"],
+                      "home": ["return to Home Page?"],
+                      "night": ["Dark mode"],
                       "hidden": true,
                       "custom": [{
                         "selector": "a",

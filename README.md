@@ -15,8 +15,6 @@ Welcome to my personal page, I'm ZiPing Lin\~
 
 ## Education
 
-<!-- .slide vertical=true -->
-
 School of Engineering, University of Pennsylvania, 	Philadelphia, PA, USA
 
 - Master of Computer and Information technology, Sept. 2020 - AUG. 2021(expected)
@@ -31,7 +29,6 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 
 ## Projects
 
-<!-- .slide vertical=true -->
 
 - No project
 
@@ -39,7 +36,6 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 
 ## Honors
 
-<!-- .slide vertical=true -->
 - **Dean’s List**,[College Of Staten Island](https://www.csi.cuny.edu/), 2018-2019,2019-2020
 - **Certificate of Appreciation**, [College Of Staten Island](https://www.csi.cuny.edu/), MAY. 2018
 
@@ -50,9 +46,11 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 
 ## Skills
 
-- **Programming Language:** Python, Java, C, C++, SQL
+- **Programming Language:** Python, Java, C, C++, SQL,Ruby
 - **Version Control:** Git
 - **Language:** Fluent in Chinese *write and oral communication in Chinese-Mandarin & Cantonese*
+- **Computer:** Microsoft Office suite, Adobe Photoshop, Procreate
+- **Additional:** Additional: Strategic planning, Communicate, Problem-solving, Multitasking, Trouble shooting.
 
 
 <!-- .slide vertical=true -->

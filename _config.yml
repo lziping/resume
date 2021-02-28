@@ -118,16 +118,16 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                         "text": "Open sidebar~"
                       }, {
                         "selector": ".effect-info",
-                        "text": "哇，你发现了什么！"
+                        "text": "Woo, what you just found！"
                       }, {
                         "selector": "#sidebar-search-input",
                         "text": "想搜索什么呢？很多干货哦！"
                       }, {
                         "selector": "#toc",
-                        "text": "这是目录~"
+                        "text": "This is Menu~"
                       }, {
                         "selector": ".page-title",
-                        "text": "这是标题~"
+                        "text": "This is title~"
                       }, {
                         "selector": ".v",
                         "text": "评论没有审核，要对自己的发言负责哦~"

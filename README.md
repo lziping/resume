@@ -7,7 +7,7 @@
 ## Contact
 
 
-- Phone: **646-xxx-xxxx (if you can't see it,its cuz you stupid)**
+- Phone: **646-338-0733**
 - E-mail:**[zipingl@seas.upenn.edu](mailto:zipingl@seas.upenn.edu)**
 
 

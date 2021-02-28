@@ -50,9 +50,9 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 
 ## Skills
 
-<!-- .slide vertical=true -->
-#### Programing language
- **Python,Java,C++,C**
+- **Programming Language:** Python, Java, C, C++, SQL
+- **Version Control:** Git
+- **Language:** Fluent in Chinese *write and oral communication in Chinese-Mandarin & Cantonese*
 
 
 <!-- .slide vertical=true -->

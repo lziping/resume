@@ -110,7 +110,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       "book": ["Want to know more about me?"],
                       "link": ["https://www.linkedin.com/in/ziping-lin-655945151"],
                       "skin": ["Switch to my friend？", "Let them take a break~"],
-                      "home": ["return to Home Page?",a href="https://www.linkedin.com/in/ziping-lin-655945151"],
+                      "home": ["href="https://www.linkedin.com/in/ziping-lin-655945151"],
                       "eye": ["Dark mode"],
                       "hidden": true,
                       "custom": [{

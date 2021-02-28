@@ -40,20 +40,9 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 ## Honors
 
 <!-- .slide vertical=true -->
-
+- **Dean’s List**,[College Of Staten Island](https://www.csi.cuny.edu/), 2018-2019,2019-2020
 - **Certificate of Appreciation**, [College Of Staten Island](https://www.csi.cuny.edu/), MAY. 2018
 
-
-
-<!-- .slide -->
-
-## Leadership
-
-- 
-
-<!-- .slide -->
-
-## Blogs
 
 
 
@@ -63,8 +52,8 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 
 <!-- .slide vertical=true -->
 ## Programing language
-- **Python**, Familiar
-- **C**, 
+- **Python,Java,C++,C**
+
 
 <!-- .slide vertical=true -->
 

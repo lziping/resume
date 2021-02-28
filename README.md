@@ -18,19 +18,10 @@ Welcome to my personal page, I'm ZiPing Lin\~
 School of Engineering, University of Pennsylvania, 	Philadelphia, PA, USA
 
 - Master of Computer and Information technology, Sept. 2020 - AUG. 2021(expected)
-  - Intro to Software Development
 
 Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	New York, NY, USA
 
-- Bachelor of Science in Accounting, Sept. 2017 - JUN. 2020
-  - Finance Minor
-
-<!-- .slide -->
-
-## Projects
-
-
-- No project
+- Bachelor of Science in Accounting, *Minor in Business:Finance*, Sept. 2017 - JUN. 2020
 
 <!-- .slide -->
 
@@ -38,8 +29,6 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 
 - **Dean’s List**,[College Of Staten Island](https://www.csi.cuny.edu/), 2018-2019,2019-2020
 - **Certificate of Appreciation**, [College Of Staten Island](https://www.csi.cuny.edu/), MAY. 2018
-
-
 
 
 <!-- .slide -->

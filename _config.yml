@@ -103,39 +103,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   pio_canvas.height = "800";
                   pio_container.insertAdjacentElement("beforeend", pio_canvas);
                   let pio = new Paul_Pio({
-                    "mode": "fixed",
                     "hidden": true,
-                    "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                     "content": {
                       "skin": ["Switch to my friend？", "Let them take a break~"],
                       "home": ["Return to Home"],
                       "hidden": true,
-                      "custom": [{
-                        "selector": "a",
-                        "type": "link",
-                      }, {
-                        "selector": ".sidebar-toggle",
-                        "text": "Open sidebar~"
-                      }, {
-                        "selector": ".effect-info",
-                        "text": "Woo, what you just found！"
-                      }, {
-                        "selector": "#sidebar-search-input",
-                        "text": "想搜索什么呢？很多干货哦！"
-                      }, {
-                        "selector": "#toc",
-                        "text": "This is Menu~"
-                      }, {
-                        "selector": ".page-title-hehe",
-                        "text": "This is title~"
-                      }, {
-                        "selector": ".page-hehe",
-                        "text": "This is hehe~"
-                      }, {
-                        "selector": ".v",
-                        "text": "评论没有审核，要对自己的发言负责哦~"
-                      }]
-                    },
+                    }
                     "model": [
                       "live2d/tororo/assets/tororo.model.json",
                       "live2d/live2d/assets/tororo.model.json",

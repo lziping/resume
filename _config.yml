@@ -106,7 +106,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     "mode": "fixed",
                     "hidden": true,
                     "content": {
-                      "link": ["https://www.linkedin.com/in/ziping-lin-655945151"],
                       "skin": ["Switch to my friend？", "Let them take a break~"],
                       "home": ["Return to Home"],
                       "hidden": true,

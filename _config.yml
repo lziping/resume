@@ -109,6 +109,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     "content": {
                       "link": ["https://www.linkedin.com/in/ziping-lin-655945151"],
                       "skin": ["Switch to my friend？", "Let them take a break~"],
+                      "home": [href="https://github.com/"],
                       "hidden": true,
                       "custom": [{
                         "selector": "a",
@@ -378,19 +379,19 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     <i class="fas fa-eye fa-fw"></i>
                     <span id="busuanzi_value_page_pv">
                       <i class="fas fa-spinner fa-pulse"></i>
-                    </span>views
+                    </span> views
                   </div>
                   <div>
                     <i class="fas fa-paw fa-fw"></i>
                     <span id="busuanzi_value_site_pv">
                       <i class="fas fa-spinner fa-pulse"></i>
-                    </span>footstep
+                    </span> footstep
                   </div>
                   <div>
                     <i class="fas fa-user-friends fa-fw"></i>
                     <span id="busuanzi_value_site_uv">
                       <i class="fas fa-spinner fa-pulse"></i>
-                    </span>people
+                    </span> people
                   </div>
                   <script
                     src='https://cdn.jsdelivr.net/npm/busuanzi@2.3.0'

@@ -623,7 +623,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - key: data-separator-vertical # 垂直展示页分隔符
               value: <!-- .slide vertical=true -->
             - key: data-background-color
-              value: "White"
+              value: "Blue"
           prepend: |
             <link
               rel="stylesheet"
@@ -662,8 +662,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 src='https://qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js'
                 async='async'
                 charset='utf-8'
-                homePageUrl='/'
-                homePageName='回到我的主页'
+                homePageUrl='https://lziping.github.io/resume/'
+                homePageName='HomePage'
               ></script>
 
 compress_html: # <https://github.com/penibelst/jekyll-compress-html>
